@@ -1,5 +1,6 @@
 h1 {
-    font-family: 'Poiret One', cursive;
+    font-family: 'MuseoModerno', cursive;
+    color: white;
     width: 800px;
     height: 200px;
     line-height: 200px;
@@ -9,8 +10,6 @@ h1 {
     left: 50%;
     margin-left: -400px;
     font-size: 100px;
-    text-transform: uppercase;
-    color: #ccc;
     text-align: center;
     vertical-align: middle
 }
